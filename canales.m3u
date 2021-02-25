@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg",Warner channel
+
+http://tecnotv.club/wws/geomex2.php?c=205&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Star_Channel_(Latinoamerica)#/media/Archivo:Star_Channel_2020.svg",Star channel
+
+http://tecnotv.club/wws/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Distrito_Comedia#/media/Archivo:DistritoComediaLOGO2018.png",Distrito comedia
+
+http://tecnotv.club/wws/geomex2.php?c=78&p=3&k=srregio&f=.m3u8%20%20
