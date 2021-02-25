@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/6/62/Warner_Channel.svg",WARNER CHANNEL
+
+http://tecnotv.club/wws/geomex2.php?c=205&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-id="https://es.wikipedia.org/wiki/Star_Channel_(Latinoamerica)#/media/Archivo:Star_Channel_2020.svg",STAR CHANNEL
+
+http://tecnotv.club/wws/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-id="https://es.wikipedia.org/wiki/Distrito_Comedia#/media/Archivo:DistritoComediaLOGO2018.png",distrito comedia
+
+http://tecnotv.club/wws/geomex2.php?c=78&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-id="https://iconape.com/wp-content/png_logo_vector/disney-junior-logo.png",Disney Jr
+
+http://tecnotv.club/wws/geomex2.php?c=118&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg",nick jr
+
+http://tecnotv.club/wws/geomex2.php?c=117&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-id="https://es.wikipedia.org/wiki/Discovery_Kids#/media/Archivo:2016_Discovery_Kids_logo.svg",Discovery Kids
+
+http://tecnotv.club/wws/geomex2.php?c=109&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-id="https://es.wikipedia.org/wiki/AXN_(Latinoam%C3%A9rica)#/media/Archivo:AXN_logo_(2015).svg",AXN
+
+http://tecnotv.club/wws/geomex2.php?c=64&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-id="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/340?cb=20200116195222&path-prefix=es",TNT SERIES
+
+http://tecnotv.club/wws/geomex2.php?c=71&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg",FORO tv
+
+http://tecnotv.club/wws/geomex2.php?c=4&p=3&k=srregio&f=.m3u8
