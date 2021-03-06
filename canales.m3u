@@ -1,0 +1,199 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg” group-title=”Noticias”, adn40
+http://tecnotv.club/got/geomex2.php?c=184&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png” group-title=”Cultural”, Animal Planet
+http://tecnotv.club/got/geomex2.php?c=88&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png” group-title=”Series”, AXN
+http://tecnotv.club/got/geomex2.php?c=64&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo=”https://www.reportv.com.ar/buscador/img/Logos/11300830.jpg” group-title=”Nacional”, Azteca 7
+http://tecnotv.club/got/geomex2.php?c=322&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo=”https://forounivers.com/uploads/monthly_2020_01/large.2145220815_AztecaUno2020.png.2b00b290e3410321c12bc4c7b2924eca.png” group-title=”Nacional”, Azteca uno
+http://tecnotv.club/got/geomex2.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 , Baby First
+http://tecnotv.club/got/geomex2.php?c=1984&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.conecta.es/media/zoo/images/06-baby-tv_9c8948bfa716a468cc0643cab49bb6e9.jpg”, Baby tv
+http://tecnotv.club/got/geomex2.php?c=116&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/bitme.jpg”, bitMe
+http://tecnotv.club/got/geomex2.php?c=2591&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png”, Canal 5
+http://tecnotv.club/got/geomex2.php?c=1785&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1000px-Cartoon_Network_logo.svg.png”, CARTOON NETWORK
+http://tecnotv.club/got/geomex2.php?c=112&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “http://media.biobiochile.cl/wp-content/uploads/2016/01/cinecanal_titulo.jpg”, CINECANAL
+http://tecnotv.club/got/geomex2.php?c=149&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/gallery/category_7/gallery_10242_7_5499.png”, CINEMAX
+http://tecnotv.club/got/geomex2.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png”, COMEDY CENTRAL
+http://tecnotv.club/got/geomex2.php?c=340&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png”, Discovery CHANNEL
+http://tecnotv.club/got/geomex2.php?c=86&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png”, discovery kids
+http://tecnotv.club/got/geomex2.php?c=109&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://img2.freepng.es/20180705/vyw/kisspng-discovery-science-discovery-channel-investigation-tv-2-science-fiction-5b3dc0a7216761.4710949115307736711368.jpg”, Discovery Science
+http://tecnotv.club/got/geomex2.php?c=98&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png”, DISNEY CHANNEL
+http://tecnotv.club/got/geomex2.php?c=113&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://e7.pngegg.com/pngimages/206/201/png-clipart-logo-disney-junior-the-walt-disney-company-disneylatino-com-disney-junior-logo-cdr-text.png”, DISNEY Junior
+http://tecnotv.club/got/geomex2.php?c=118&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png”, DISNEY XD
+http://tecnotv.club/got/geomex2.php?c=111&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png”, distrito comedia
+http://tecnotv.club/got/geomex2.php?c=78&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://img1.freepng.es/20180629/zsz/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d05350e328.6594147615302533953313.jpg”, E!
+http://tecnotv.club/got/geomex2.php?c=55&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://cdn2.excelsior.imagendigital.com/images/excelsior-tv-redes.png”, EXCELSIOR TV
+http://tecnotv.club/got/geomex2.php?c=1449&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png”, FORO tv
+http://tecnotv.club/got/geomex2.php?c=4&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/monthly_2018_12/large.1543352145820.png.bd474f871c396813570583c2980fdc5e.png”, FX
+http://tecnotv.club/got/geomex2.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://www.pngitem.com/pimgs/m/29-296104_fxm-fxm-channel-logo-hd-png-download.png”, FXM
+http://tecnotv.club/got/geomex2.php?c=138&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png”, GOLDEN
+http://tecnotv.club/got/geomex2.php?c=123&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png”, GOLDEN PLUS
+http://tecnotv.club/got/geomex2.php?c=122&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/6/66/GoldenEdge2019.png”, GOLDEN EDGE
+http://tecnotv.club/got/geomex2.php?c=124&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png”, HISTORY
+http://tecnotv.club/got/geomex2.php?c=89&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png”, IMAGEN TELEVISION
+http://tecnotv.club/got/geomex2.php?c=2606&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.seekpng.com/png/detail/148-1484169_logo-las-estrellas-televisa.png”, las estrellas
+http://tecnotv.club/got/geomex2.php?c=1784&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://w7.pngwing.com/pngs/213/923/png-transparent-milenio-television-television-high-definition-video-magazine-watch-tv-television-text-logo.png”, MILENIO TELEVISION
+http://tecnotv.club/got/geomex2.php?c=1250&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png”, MTV
+http://tecnotv.club/got/geomex2.php?c=212&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.nicepng.com/png/detail/87-877544_download-png-mtv-hits.png”, MTV HITS
+http://tecnotv.club/got/geomex2.php?c=213&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png”, MTV LIVE
+http://tecnotv.club/got/geomex2.php?c=211&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://logos-marcas.com/wp-content/uploads/2020/09/National-Geographic-Logo.png”, NATIONAL GEOGRAPHIC
+http://tecnotv.club/got/geomex2.php?c=91&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png”, NAT GEO KIDS
+http://tecnotv.club/got/geomex2.php?c=2373&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg”, NAT GEO WILD
+http://tecnotv.club/got/geomex2.php?c=92&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png”, Nick
+http://tecnotv.club/got/geomex2.php?c=110&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png”, nickjr.
+http://tecnotv.club/got/geomex2.php?c=117&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png”, Teennick
+http://tecnotv.club/got/geomex2.php?c=2147&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://cdn.freebiesupply.com/logos/large/2x/once-tv-mexico-logo-png-transparent.png”, once tv
+http://tecnotv.club/got/geomex2.php?c=1942&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png”, Paramount CHANNEL
+http://tecnotv.club/got/geomex2.php?c=1726&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png”, STAR CHANNEL
+http://tecnotv.club/got/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/monthly_2020_12/small.StarAction_Logo2021_FondoClaro.png.8226627127e604d90af0a99e96c38ccd.png”, STAR ACTION
+http://tecnotv.club/got/geomex2.php?c=336&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoClaro.png.1f7c2778a8012927edfd5c9ee5f2d585.png”, STAR CINEMA
+http://tecnotv.club/got/geomex2.php?c=1729&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://forounivers.com/uploads/monthly_2021_02/large.1412092448_StarClassics.png.0687f5b37cd6e0c41de1636415c8cb27.png”, STAR CLASSICS
+http://tecnotv.club/got/geomex2.php?c=1732&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png”, STAR LIFE
+http://tecnotv.club/got/geomex2.php?c=77&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg”, STAR MOVIES
+http://tecnotv.club/got/geomex2.php?c=146&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png”, STAR SERIES
+http://tecnotv.club/got/geomex2.php?c=139&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/1200px-Sony_Channel_latam_logo.svg.png”, SONY CHANNEL
+http://tecnotv.club/got/geomex2.php?c=48&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png”, SPACE
+http://tecnotv.club/got/geomex2.php?c=129&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png”, STUDIO UNIVERSAL
+http://tecnotv.club/got/geomex2.php?c=132&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png”, SYFY
+http://tecnotv.club/got/geomex2.php?c=59&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://www.pandaancha.mx/plds/articulos/froala/C9y4NqyWAAsrepN-824x658-724743196.jpg”, TeleFormula
+http://tecnotv.club/got/geomex2.php?c=32&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/4/4f/Telehit_Plus_Logo_Octubre_2017.png”, TELEHIT PLUS
+http://tecnotv.club/got/geomex2.php?c=220&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://forounivers.com/uploads/monthly_2019_12/large.493718621_TelehitUrbano2019.png.4fa7bbc5d09c821a8902576b2fde0312.png”, telehit URBANO
+http://tecnotv.club/got/geomex2.php?c=218&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg”, TELEMUNDO INTERNACIONAL
+http://tecnotv.club/got/geomex2.php?c=85&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://e7.pngegg.com/pngimages/743/619/png-clipart-tnt-roku-television-channel-screen-actors-guild-award-tbs-tnt-film-television-trademark.png”, TNT
+http://tecnotv.club/got/geomex2.php?c=126&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://forounivers.com/uploads/monthly_2018_04/large.583f2b1cadb6a_LogoTNTSeries(Blanco).png.cbc4b4b5fc68ea9d5fb139c19debbbcf.png”, TNT SERIES
+http://tecnotv.club/got/geomex2.php?c=71&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://cdn.mitvstatic.com/channels/co_tvc_m.png”, TVC
+http://tecnotv.club/got/geomex2.php?c=2156&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://televisa.brightspotcdn.com/7b/b9/1754376d4e608523ff87670c7a4e/canalu.png”, UNICABLE
+http://tecnotv.club/got/geomex2.php?c=1499&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png”, UNIVERSAL CHANNEL
+http://tecnotv.club/got/geomex2.php?c=207&p=3&k=srregio&f=.m3u8%20%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png”, VH1
+http://tecnotv.club/got/geomex2.php?c=334&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1280px-LOGO_VH1_CLASSIC.svg.png”, VH1 CLASSIC
+http://tecnotv.club/got/geomex2.php?c=214&p=3&k=srregio&f=.m3u8%20
+
+#EXTINF:-1 tvg-logo = “https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png”, WARNER CHANNEL
+http://tecnotv.club/got/geomex2.php?c=205&p=3&k=srregio&f=.m3u8%20%20
