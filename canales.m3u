@@ -1,0 +1,234 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="TV", AZ clic
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="TV", Azteca uno
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Las estrellas
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Imagen
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS", Foro tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Canal 5
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", 6 MX
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="TV", Azteca 7
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=322&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", NU9VE
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Once
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS", Milenio
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS", Adn40
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=184&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Distrito Comedia
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=78&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Comedy Central
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=340&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Unicable
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Univision
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/7n8pr4f27.m3u8?s=p0RvycLrX9nPXQcrDPH1yg&e=1618785255
+#EXTINF:-1 group-title="TV", Telemundo Internacional
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", ¡Hola!Tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=219&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", bitMe
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", FX
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Universal tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Star channel
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", WB tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=205&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="TV", Simpsons tv
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/zgzowaznb.m3u8?s=dD1lHQDrQqdqIfeZpw8muw&e=1618785272
+
+
+#EXTINF:-1 group-title="CULTURA", Animal Planet
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/zfwban4sppn0.m3u8?s=6lAJm8cEXn2fcmSlw3iSUQ&e=1618785294
+#EXTINF:-1 group-title="CULTURA", Wild
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/1eelyzjwjyy8086.m3u8?s=kigpjdANr-I-w-03XJSTJg&e=1618785320
+#EXTINF:-1 group-title="CULTURA", Nat Geo
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=FA-XCjI9Eiw8YAoKAA595A&e=1618785334
+#EXTINF:-1 group-title="CULTURA", History
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=GWOJFJKUrPkmeV6yZPfomw&e=1618785347
+#EXTINF:-1 group-title="CULTURA", H2
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/ypxvs0nyn.m3u8?s=6upvhz5H3ZBWh6rBANG_0w&e=1618785370
+#EXTINF:-1 group-title="CULTURA", El Gourmet
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Food Network
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", H&H
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=96&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", MasChic
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS", Cinecanal
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/ymv0a1aobkxuf.m3u8?s=76VIxXe1X-HFwvGsKAaQPA&e=1618785432
+#EXTINF:-1 group-title="PELICULAS", Cinemax
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/ztv7sh.m3u8?s=UUoR7lwHs9qGMjCk_uE5ow&e=1618785466
+#EXTINF:-1 group-title="PELICULAS", HBO
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=05KuWndt6LOlPFA4YVDh3Q&e=1618785485
+#EXTINF:-1 group-title="PELICULAS", HBO2
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/x5r58d0omlmqph.m3u8?s=p2ywpLVkOOUYO9mhCN1vrA&e=1618785501
+#EXTINF:-1 group-title="PELICULAS", HBO+
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/3dgzjbpy.m3u8?s=iLBAA6sQlkOIakwhQ2hLxA&e=1618785517
+#EXTINF:-1 group-title="PELICULAS", HBO family
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/mfobze65eqg.m3u8?s=2ksSunIM8es2qTV0skSKJA&e=1618785533
+#EXTINF:-1 group-title="PELICULAS", HBO xtreme
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/way71f4yp5a3.m3u8?s=Ve33ckJ20uNSNxx2Rlu6Mg&e=1618785546
+#EXTINF:-1 group-title="PELICULAS", HBO mundi
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/8nviuzdhm5jnu.m3u8?s=EeMNI8aWUMOlomIA1kv3sA&e=1618785565
+#EXTINF:-1 group-title="PELICULAS", HBO pop
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/rvqh1fziz.m3u8?s=B4qlRKWj1_xMuVNF5OgmNQ&e=1618785578
+#EXTINF:-1 group-title="PELICULAS", HBO signature
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/g05mnm.m3u8?s=ZEakA4a7QNR6tMA43eTEdg&e=1618785592
+#EXTINF:-1 group-title="PELICULAS", Golden
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=123&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Golden Plus
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=122&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Golden Edge
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=124&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Paramount Network
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Studio Universal
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=132&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", TNT
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=126&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Star Action
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=336&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Star Cinema
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Star Comedy
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/pnc0det5nknvqo.m3u8?s=lLImqxaMGQMG2sumBrg0ow&e=1618785608
+#EXTINF:-1 group-title="PELICULAS", Star Fun
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/goks9npik9.m3u8?s=3UCZCBEyybkUPmyrhutG2Q&e=1618785644
+#EXTINF:-1 group-title="PELICULAS", Star Hits
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=146&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS", Star Classics
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="SERIES", Star Life
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=77&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Star Series
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=139&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", TNT Series
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=71&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", A&E
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=62&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", AMC
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=328&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", AXN
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=64&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", FXM
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=138&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Lifetime
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Sony channel
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=48&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Space
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=129&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES", Syfy
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=59&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="INFANTIL", Babyfirst
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Babytv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=116&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Discovery kids
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=109&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Nat Geo Kids
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", nickjr.
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=117&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Disney junior
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=118&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Disney channel
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Disney XD
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=111&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", nick
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=110&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Teennick
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Cartoon Network
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=112&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Boomerang
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=115&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL", Tooncast
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=108&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="CULTURA", Discovery Channel
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=86&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Discovery Civilization
+http://ipeteve.com/php/SR_REGIO_281119/00.php?c=la-discovery-civilization&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Discovery Science
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=98&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Discovery Theater
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=95&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Discovery World
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Discovery ID
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/1mptcl1.m3u8?s=h6zs_tkq9_Ats088dw05gg&e=1618785383
+#EXTINF:-1 group-title="CULTURA", Discovery Turbo
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Garage tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=75&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA", Toros
+https://dbghae58x7vt67da.ezcdn483.net:8443/hls/4u0e4kn4m.m3u8?s=BzuTfIzwcPT335FFzYfo4A&e=1618785405
+
+
+#EXTINF:-1 group-title="NOTICIAS", Excelsior tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS", Formula Noticias
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=32&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS", TVC
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="SD", AZ clic
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=223&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Azteca uno
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=27&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Las estrellas
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=17&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Imagen
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Foro tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=19&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Canal 5
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=20&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", 6 MX
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", 6 MTY
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Azteca 7
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=21&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", NU9VE
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=24&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Once
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=25&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Milenio
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1252&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Adn40
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=40&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", FX
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=60&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Universal tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=57&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", Fox
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=46&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SD", WB tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=52&p=3&k=srregio&f=.m3u8
