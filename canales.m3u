@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1200px-TV_Azteca_Clic_logo.svg.png" group-title="TV HD", clic
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=11&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_01/large.2145220815_AztecaUno2020.png.2b00b290e3410321c12bc4c7b2924eca.png" group-title="TV HD", Azteca uno
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV HD", Las estrellas
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV HD", Imagen
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="TV HD", Foro tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=4&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV HD", Canal 5
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV HD", Canal 6 MX
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV HD", Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.599129fd2a9d6_Azteca72017.png.7b285bd9fa63471cae12d657a50f15e8.png" group-title="TV HD", Azteca 7
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=317&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/asmati/asmati1705/asmati170503915/77998744-elemento-de-plantilla-de-dise%C3%B1o-de-signo-de-n%C3%BAmero-8-vector-icono-de-garabato-rojo-obtenido-como-resultado-.jpg" group-title="TV", Canal 8 MTY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620237592/ei/uIiSYIOYKcCslu8PotGz0Ak/ip/189.216.206.42/id/OHI_0JaoI08.1/source/yt_live_broadcast/requiressl/yes/tx/9417362/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPJ1lJdTjaCQtbcn_0rVH9_QqGATPH6xtrME9vQgDGtcAiAuu68wb1O4Yj5i81IcU4sx488fyLXTUeNq0PZYqIzJQA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="TV HD", NU9VE
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="TV HD", Once
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV HD", Milenio
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1250&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="TV HD", Adn40
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=184&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://dancefestmx.com/wp-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png" group-title="TV", MVStv
+https://content-ausc3.uplynk.com/channel/30e0454a6ca7413c9dcec9dab66c978e/e.m3u8?pbs=6a3b9f76336345e19c364ab43e72e8fa
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="TV", Distrito Comedia
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=78&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="TV", Comedy Central
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=340&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_10/large.logo_Unicable.png.54d3647dc5f882964a47bb17c01c1e4d.png" group-title="TV", Unicable
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1499&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="TV", Univision
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CusEHOAaT2H-VMEZd6wyXylvlv1VhdAR5_8bUWMWb15cTdFhEejOG_1SPQR_ANas0uZg2PKD9Oz6HTsEEcGfIVYG8LMbotJu6Kwf9iCUTvoHUIsEbUV0FkDffIHHIWNjoS0PgzbHPqaUxAq92otZM6FNGbZwoe8S42eqtOCANhYNLdgXrjltFs-bCJmZntPQ6RFnfzZxZ9HaK1_TxnaZWZDumUrf7HIG8G0o36is5b_bXNTuZKjPjDE2dSwuGT-pP12twqmxkXBqnM6DivGeTHu7QRr18d1iLhPW-p51r40B7ayXHLBM8UubKbU0tDZBP4r_Zg0TBIFBb6OIqI4iJwM07sFBdKsw61jMyfkwShBQUzZq5tRX38U8ux_Sy5UYY3XHBnDGs4KB6aVE337Ez8vWIL6hmCx4TzDLxyYNdQpsCdRRk2W3_45RGAk-Fy1-D63s57a_ABMb1yQIlqtqQLV_ZcvZ8PP_dfHba85ANkV5ubXwyfu9BWRQ-WWpqKyE8UgBpPWbocCmhWvkf3zcbSYlWcpjAdPezhss0XucmRHPIyUFwa2v7WzNEpk5jNkmUNARYoug4SVtGS4jRpjXUXMPTyiDI5c_a7cIqSPbZXfxIPmCz9hOOh7v-mP32NjKjHDUhIc0dmwAI3bTmRNZ09N1Ig_7s5W6CnWNAIkVplqo14ck6pGO5ON2GmsOOtfPP_nnK_CMuAaOdAxFqmSS4VFf2QD1kKGmWHCg6xAXH2eYsBYBRnuvOrS1Il08L2OAiNqOc91rVRnHkOib_Tcwbuur8YdHewoKrGk4SGfK78XV-aY5Xh3jy-KzRFpuCBIQwlUrkhmW4RAKRZ6aQ7mkhhoMXSIu7FWGUdAw3h7K.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180401/zte/kisspng-telemundo-logo-television-network-prime-time-shows-5ac0bf8e862407.3485976515225813905495.jpg" group-title="TV HD", Telemundo Internacional
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=85&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="TV HD", ¡Hola!Tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=219&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-emblema.jpg" group-title="TV", MTV
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=212&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="TV", E!
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=55&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/888px-BitMe.svg.png" group-title="TV HD", bitMe
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="TV HD", FX
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=209&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="TV HD", Universal tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=207&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="TV HD", Star channel
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=201&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="TV HD", WB tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=205&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Simpsons_logo_-_Yellow.svg/1600px-The_Simpsons_logo_-_Yellow.svg.png" group-title="TV", Simpsons
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/zgzowaznb.m3u8?s=_Ltz-dqI7Z0DPQXhMGq2zw&e=1620235072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA", Animal Planet
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2378&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/large.1795120606_NatGeoWild.png.2c6ef94abd656f8b702a0853d19e510c.png" group-title="CULTURA", Wild
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=92&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://expobuceo.com.mx/wp-content/uploads/2015/07/natgeo-logo-e1474417968555.png" group-title="CULTURA", Nat Geo
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=91&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1304px-History_Logo_2008-2015.svg.png" group-title="CULTURA", History
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=89&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA", H2
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ypxvs0nyn.m3u8?s=d8IvVAzTzvWXB3ZtqmWVrg&e=1620235516
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="CULTURA", El Gourmet
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=74&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CULTURA", Food Network
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CULTURA", H&H
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=96&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="CULTURA", MasChic
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1842&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS", Cinecanal
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ymv0a1aobkxuf.m3u8?s=MCdKM8G77le-XigtIXhArg&e=1620235608
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS", Cinemax
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ztv7sh.m3u8?s=d3XL5fgF73sAY7ScFWSs6g&e=1620235648
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="PELICULAS", HBO
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/dp7r8.m3u8?s=LUO28jON5x2uGDTw-HofdQ&e=1620236107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PELICULAS", HBO2
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/x5r58d0omlmqph.m3u8?s=ry11tmS0I4l20nNALgpOvw&e=1620236226
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1280px-Logohboplus2019.svg.png" group-title="PELICULAS", HBO+
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/3dgzjbpy.m3u8?s=M4ydcAX0gkHhr9Zxjr5uXw&e=1620236240
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELICULAS", HBO family
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/mfobze65eqg.m3u8?s=t73vBEocxxUWDuQDYmNZ7g&e=1620236253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="PELICULAS", HBO signature
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/g05mnm.m3u8?s=Zx6qhSJcmsKJ5lljzyZwMA&e=1620236264
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PELICULAS", HBO xtreme
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/way71f4yp5a3.m3u8?s=z5ZQp78KBJyXuQtvAMqhaA&e=1620236282
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PELICULAS", HBO mundi
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/8nviuzdhm5jnu.m3u8?s=nuU8i5R5qbbWVZdcdFpUAA&e=1620236294
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="PELICULAS", HBO pop
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/rvqh1fziz.m3u8?s=ZgWxFAc9ero6RK1xU1YDsQ&e=1620236305
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Golden2020.png" group-title="PELICULAS", Golden
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=123&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="PELICULAS", Golden Plus
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=122&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Golden_Edge_LA_%282020%29.png" group-title="PELICULAS", Golden Edge
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=124&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://lapublicidad.net/wp-content/uploads/2018/05/Paramount-Network_logo.jpg" group-title="PELICULAS", Paramount Network
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1726&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="PELICULAS", Studio Universal
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=132&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="PELICULAS", TNT
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=126&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="PELICULAS", Star Action
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=336&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoClaro.png.1f7c2778a8012927edfd5c9ee5f2d585.png" group-title="PELICULAS", Star Cinema
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1599px-Star_Comedy_2020.svg.png" group-title="PELICULAS", Star Comedy
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/pnc0det5nknvqo.m3u8?s=CG2tEwmwIc0q8DM5kYqhbg&e=1620236319
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/270px-Star_Fun_2020.svg.png" group-title="PELICULAS", Star Fun
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/goks9npik9.m3u8?s=5ziJ8G05JZL0GuNVITU_Wg&e=1620236338
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1600px-Star_Hits_2020.svg.png" group-title="PELICULAS", Star Hits
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=146&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/270px-Star_Classics_2020.svg.png" group-title="PELICULAS", Star Classics
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1600px-Star_Life_2021.svg.png" group-title="SERIES", Star Life
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=77&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Star_Series_2021.png" group-title="SERIES", Star Series
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=139&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SERIES", TNT Series
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=71&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SERIES", A&E
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=62&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="SERIES", AMC
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=328&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="SERIES", AXN
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=64&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/320px-FX_Movies_logo.svg.png" group-title="SERIES", FXM
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=138&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="SERIES", Lifetime
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=94&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES", Sony channel
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=48&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="SERIES", Space
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=129&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HTGPj7WZk9s/Wrv4ULFkTZI/AAAAAAAAd7I/29J1TuZOsHwo-AybRvLv9Hd0qHVHtWXNACLcBGAs/s1600/syfy%2Blogo.jpg" group-title="SERIES", Syfy
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=59&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="INFANTIL", Babyfirst
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1984&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL", Babytv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=116&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL", Discovery kids
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=109&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL", Nat Geo Kids
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2373&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTIL", Disney junior
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=118&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney channel
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=113&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTIL", Disney XD
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=111&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL", nickjr.
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=117&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL", nick
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=110&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" group-title="INFANTIL", Teennick
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", Cartoon Network
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=112&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL", Boomerang
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=115&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL", Tooncast
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=108&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="CULTURA", Discovery Channel
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=86&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CULTURA", Discovery Science
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=98&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA", Discovery Theater
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=95&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA", Discovery World
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=101&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="CULTURA", Discovery ID
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2376&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA", Discovery Turbo
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="CULTURA", Garage tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=75&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aItShmuCJ8c/WZSS3WTjjHI/AAAAAAAAZYs/Q60PxExLRtM4ck16XwDtR3xMDckQ3JslgCLcBGAs/s1600/TOROS.png" group-title="CULTURA", Toros
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/4u0e4kn4m.m3u8?s=m7ljsvrMYTbr3vzVJd627Q&e=1620236354
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/A%2B-0.png" group-title="TV", a+
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2316&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/TV_Azteca_Mundo_2019.png" group-title="TV", azteca mundo
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=84&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2019_11/large.1124594727_TVAztecaCinema.png.1e9b50be3c0ef0c805c13b2a8f67cbf2.png" group-title="TV", azteca cinema
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1787&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="TV", azteca corazon
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=70&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png" group-title="TV", tlnovelas
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=83&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20141115205529/lumix/images/8/8e/De_Pel%C3%ADcula.png" group-title="TV", de pelicula
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=335&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.DePeliculaPlus-1.png.5ffaf7150f40e959b88e31a35fff89e8.png" group-title="TV", de pelicula +
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=121&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://tuinterfaz.mx/fotos/2014/foto2394_800.jpg" group-title="TV", TVC
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="TV", Glitz
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=76&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1200px-TV_Azteca_Clic_logo.svg.png" group-title="TV", clic
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=223&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_01/large.2145220815_AztecaUno2020.png.2b00b290e3410321c12bc4c7b2924eca.png" group-title="TV", Azteca uno
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=27&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV", Las estrellas
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=17&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV", Imagen
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="NOTICIAS", Foro tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=19&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV", Canal 5
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=20&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV", Canal 6 MX
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1253&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV", Canal 6 MTY
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.599129fd2a9d6_Azteca72017.png.7b285bd9fa63471cae12d657a50f15e8.png" group-title="TV", Azteca 7
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=21&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/asmati/asmati1705/asmati170503915/77998744-elemento-de-plantilla-de-dise%C3%B1o-de-signo-de-n%C3%BAmero-8-vector-icono-de-garabato-rojo-obtenido-como-resultado-.jpg" group-title="TV", Canal 8 MTY
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2307&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="TV", NU9VE
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=24&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="TV", Once
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=25&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS", Milenio
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1252&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" group-title="NOTICIAS", Adn40
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=40&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.techstem.com.mx/wp-content/uploads/2017/05/Excelsior-TV-Logo.jpg" group-title="NOTICIAS", Excelsior tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1449&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png" group-title="NOTICIAS", Formula Noticias
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=32&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="SERIES", FX
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=60&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="SERIES", Universal tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=57&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="SERIES", Star channel
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=46&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES", WB tv
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=52&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png" group-title="MUSICA", MTV live
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=211&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" group-title="MUSICA", MTV hits
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=213&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png" group-title="MUSICA", MTV 80s
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=214&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/260px-VH1_logonew.svg.png" group-title="MUSICA", VH1
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=334&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Telehit_M%C3%BAsica.png" group-title="MUSICA", Telehit Musica
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=218&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Telehit_M%C3%BAsica_Plus_2020.png" group-title="MUSICA", Telehit Musica Plus
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=220&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/1024px-Bandamax_logo.svg.png" group-title="MUSICA", Bandamax
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=221&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.multimedios.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.png" group-title="MUSICA", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_12/large.332605982_AdrenalinaSportsNetwork.png.abd46f026a9e399883b074499daf38e9.png" group-title="TV HD", Adrenalina sports network
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1799&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="TV HD", Claro sports
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="TV HD", TUDN
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="DEPORTES", ESPN
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=169&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=168&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=345&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="DEPORTES", ESPN extra
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=167&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX sports 1
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=170&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX sports 2
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=172&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX sports 3
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=178&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg" group-title="DEPORTES", AYM sports
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=180&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES", Latin American Sports
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2089&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=174&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="DEPORTES", TVC Deportes
+http://ipeteve.com/php/SR_REGIO_322/tp.php?c=2157&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://universal881.com/wp-content/themes/universal881/images/bg/logo.png" group-title="RADIO", Universal 88.1
+https://15383.live.streamtheworld.com/XEUNO_AMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=ba19d908-5d01-4218-8426-cd8bae455267
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tqg2giDUlj8/WLfelCyuBbI/AAAAAAAAA0w/ceLyKLYEQxUFvlLOc9Ionwbi_lxXbaEggCLcB/s1600/Alfa%2BRadio%2B91.3%2Ben%2Bvivo%2B-%2BMexico.jpg" group-title="RADIO", Alfa 91.3
+https://19173.live.streamtheworld.com/XHFAJ_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=df2b661f-c3d2-4be1-f894-b61c80fbbf79
+
+#EXTINF:-1 tvg-logo="https://joya937.mx/wp-content/uploads/2020/02/logo_Joya_512.jpg" group-title="RADIO", Joya 93.7
+https://18723.live.streamtheworld.com/XEJP_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=ef3da351-292f-42fe-a326-d114888eb5b7
+
+#EXTINF:-1 tvg-logo="https://amorfm.mx/wp-content/uploads/2017/01/ACIR517M_01_ActualizacionWeb_LogosHeader_544x180_w2.png" group-title="RADIO", Amor 95.3
+https://15383.live.streamtheworld.com/XHSHFMAAC_SC
+
+#EXTINF:-1 tvg-logo="https://daenomicus.files.wordpress.com/2008/11/rock_101_2.jpg" group-title="RADIO", Rock 101
+https://s2.radio.co/sa199443d4/listen
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="RADIO", Los40 101.7
+https://24073.live.streamtheworld.com/LOS40_MEXICOAAC.aac?csegid=12000&dist=los40-web-live_streaming_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=8d0a7a4e-7b32-406b-c779-37a64b251f1e
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2400546052/Untitled.png" group-title="RADIO", exa 104.9
+https://18553.live.streamtheworld.com/XHEXA_SC?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=4082bb01-58cb-4177-9748-f1433e2182fe&clientType=web&profileid=1522891552&host=webapp.MX&callLetters=XHEXA-FM&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=164&at=0&birthYear=null&modTime=1618856211925&aw_0_1st.skey=1618856211&devicename=web-desktop&playedFrom=138&age=null&territory=MX&stationid=8649
+
+#EXTINF:-1 tvg-logo="https://enmedios.com.mx/wp-content/uploads/2016/08/mix-df.jpg" group-title="RADIO", Mix 106.5
+https://14923.live.streamtheworld.com/XHDFMFMAAC_SC?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=4082bb01-58cb-4177-9748-f1433e2182fe&clientType=web&profileid=1522891552&host=webapp.MX&callLetters=XHDFM-FM&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=164&at=0&birthYear=null&modTime=1618856211925&aw_0_1st.skey=1618856211&devicename=web-desktop&playedFrom=60&age=null&territory=MX&stationid=6533&iheart-encr=YXdfMF8xc3QuZ2VuZGVyPQ%3D%3D
+
+
