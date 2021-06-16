@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L._AC_UL600_SR600,600_.png" group-title="CINEMA", ButacaTV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="CINEMA", Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=dd447de1-ba5a-11eb-8558-0242ac110002&sid=dd447de1-ba5a-11eb-8558-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINEMA", Cine Latino
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=cinelatino&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/featuredImage.jpg" group-title="CINEMA", Cine Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=6f681d75-c86d-11eb-ad1b-0242ac110002&sid=6f681d75-c86d-11eb-ad1b-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/1024px-TV_Azteca_Cinema_logo.svg.png" group-title="CINEMA", cinema inolvidable
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=azcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/08/imgpsh_fullsize_anim.jpg" group-title="CINEMA", D pelicula
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=dpelicula&f=.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.Logo-de-pelicula-plus.png.389c5278a76baaa3fcbb937beb3a1eea.png" group-title="CINEMA", D pelicula plus
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=dpeliculaplus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="NOVELAS", Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=791ccd0f-b9d1-11eb-a516-0242ac110002&sid=791ccd0f-b9d1-11eb-a516-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS", Pasiones
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=pasiones&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png" group-title="NOVELAS", tlnovelas
+https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/tv-azteca-corazon-logo.png" group-title="NOVELAS", corazon
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=azcorazon&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="NOVELAS", telefe classico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=a4accce4-c86f-11eb-888c-0242ac110002&sid=a4accce4-c86f-11eb-888c-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="VIDA", Viajes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=dc48cec8-c87b-11eb-ad1b-0242ac110002&sid=dc48cec8-c87b-11eb-ad1b-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="VIDA", MasChic
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=maschic&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="VIDA", h&h
+https://tv.teleclub.xyz/canales/L1/DHYH.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="VIDA", Hogar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=3cb56737-c87c-11eb-8e10-0242ac110002&sid=3cb56737-c87c-11eb-8e10-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="VIDA", el Gourmet
+https://tv.teleclub.xyz/canales/L1/ELGOURMET.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="VIDA", food network
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=food&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="VIDA", Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=be4212a4-b9cb-11eb-b9ca-0242ac110002&sid=be4212a4-b9cb-11eb-b9ca-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1274429/tastemade-squarelogo-1572291748061.png" group-title="VIDA", Tastemade
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=2b7d6644-ba6c-11eb-a4a5-0242ac110002&sid=2b7d6644-ba6c-11eb-a4a5-0242ac110002&userId=&profilesFromStream=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="MEN", Discovery Turbo
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2379&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="MEN", Garage tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=75&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="MEN", Velocidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=68e854f5-bbe2-11eb-ae53-0242ac110002&sid=68e854f5-bbe2-11eb-ae53-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aItShmuCJ8c/WZSS3WTjjHI/AAAAAAAAZYs/Q60PxExLRtM4ck16XwDtR3xMDckQ3JslgCLcBGAs/s1600/TOROS.png" group-title="MEN", Toros
+http://s846397078.mialojamiento.es/k2hs/toro.php/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/TV_Azteca_Mundo_2019.png" group-title="TV", mundo
+http://ipeteve.com/php/SR_REGIO_281119/regio3.php?c=a01n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="TV", a+
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TV_Azteca_Clic_logo.svg/1200px-TV_Azteca_Clic_logo.svg.png" group-title="TV", clic
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=11&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_01/large.2145220815_AztecaUno2020.png.2b00b290e3410321c12bc4c7b2924eca.png" group-title="TV", uno
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV", las estrellas
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1784&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV", Imagen
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2606&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png" group-title="TV", Televisa mty
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1623821862/ei/xjnJYKK_GrPNiwTK5YGwDg/ip/189.216.204.106/id/8R2mhj2bXkg.1/source/yt_live_broadcast/requiressl/yes/tx/9417362/txs/9417361%2C9417362%2C9430863/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN6J4K3g-vDJfVB1lvCdTvTKMR7VwUzMBsY907PBSxG1AiEAnLDlTAgi1xJWFkAQRTttWeUObr6_wkq8bZj6ACeBsLI%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV", 5
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV", Canal 6 mx
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2882&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV", Canal 6 mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_08/large.599129fd2a9d6_Azteca72017.png.7b285bd9fa63471cae12d657a50f15e8.png" group-title="TV", Azteca 7
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=317&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/XHFAMX_LaOctava.png" group-title="TV", La Octava
+https://stream-04.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2ic1DOHiAW_71PaNPQc-WU0)/dm/3/x80mow9/d/live-4.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1&qos_geostore=1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/350px-Nueve_%282018_logo%29.png" group-title="TV", NU9VE
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="TV", once
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1942&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="http://manualdeimagen.canal22.org.mx/img/eg.png" group-title="TV", Canal 22
+https://5fe2654d6127d.streamlock.net/canal22/smil:canal22.smil/chunklist_w1777297944_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="TV", TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.sanchezcarrillo.tv/wp-content/uploads/2018/09/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="TV", Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dancefestmx.com/wp-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png" group-title="TV", MVStv
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+#EXTINF:-1 tvg-logo="https://www.pctv.mx/Portals/_default/Skins/Incredible/css/tvc/canales/tvc-89472.png" group-title="TV", TVC
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2156&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/59985_1_43272.jpg" group-title="TV", ¡Hola!Tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=219&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.venevision.com/sites/all/themes/venevision/zen-internals/images/bg_menu/humor_logo.png" group-title="TV+", Humor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=9d541879-b9e4-11eb-8890-0242ac110002&sid=9d541879-b9e4-11eb-8890-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="TV+", distrito comedia
+http://ipeteve.com/php/SR_REGIO_281119/regio3.php?c=a01m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="TV+", Comedy Central
+https://ft33pgzx58.azcdn728.net:8443/hls/4qox4.m3u8?s=0LILAytp27I51z4dE5A0lQ&e=1623804690
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-cZtKhZGCIUE/WKcwD9V2hrI/AAAAAAAALVU/Jp_TpCJassAU-LfsTJA_KAtTVA6P3EVugCK4B/s1600/comedy%2Bcentral%2Bpresenta%2Bnuevos%2Bepisodios.jpg" group-title="TV+", Comedy Central Presenta
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=df8bee7a-e7e1-4e6f-a52c-0d2f0b774ffd&clientModelNumber=na&deviceDNT=false&deviceId=df8bee7a-e7e1-4e6f-a52c-0d2f0b774ffd&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=3969b524-b71c-11eb-a8da-0242ac110002&sid=3969b524-b71c-11eb-a8da-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="TV+", Unimas
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=unimas&f=.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_10/large.logo_Unicable.png.54d3647dc5f882964a47bb17c01c1e4d.png" group-title="TV+", Unicable
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=unicable&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="TV+", Univision
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=univisionhd&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/300px-Galavision_Logo_2013.svg.png" group-title="TV+", Galavision
+https://tv.teleclub.xyz/canales/L1/UNIVISION.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TV+", Telemundo
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="TV+", glitz*
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=76&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="ENTERTAINMENT", truTV
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=215&p=3&k=srregio&f=.m3u8%20%20
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cf/9a/d1/cf9ad1a8e6889f83d05cf71dcd0774da.png" group-title="ENTERTAINMENT", E!
+https://tv.teleclub.xyz/canales/L2/E_TV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/490px-Paramount_Plus.svg.png" group-title="ENTERTAINMENT", Paramount+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=80c48832-ba73-11eb-98a9-0242ac110002&sid=80c48832-ba73-11eb-98a9-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-emblema.jpg" group-title="ENTERTAINMENT", MTV
+https://tv.teleclub.xyz/canales/L2/MTV.m3u8
+#EXTINF:-1 tvg-logo="https://vanguardia.com.mx/sites/default/files/field/image/mtv_logo_logo_90s.jpg" group-title="ENTERTAINMENT", MTV animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=c3079442-b9e3-11eb-b2c8-0242ac110002&sid=c3079442-b9e3-11eb-b2c8-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/888px-BitMe.svg.png" group-title="ENTERTAINMENT", bitMe
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="ENTERTAINMENT", Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=017e466d-7eb4-4186-87b1-1262f1aae830&clientModelNumber=na&deviceDNT=false&deviceId=017e466d-7eb4-4186-87b1-1262f1aae830&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=54580235-ca4d-11eb-8ece-0242ac110002&sid=54580235-ca4d-11eb-8ece-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="ENTERTAINMENT", Anime Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=017e466d-7eb4-4186-87b1-1262f1aae830&clientModelNumber=na&deviceDNT=false&deviceId=017e466d-7eb4-4186-87b1-1262f1aae830&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=91.0.4472.77&marketingRegion=VE&serverSideAds=true&sessionID=d2add2cf-ca4d-11eb-bb4c-0242ac110002&sid=d2add2cf-ca4d-11eb-bb4c-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Simpsons_logo_-_Yellow.svg/1600px-The_Simpsons_logo_-_Yellow.svg.png" group-title="ENTERTAINMENT", The Simpsons
+https://tv.teleclub.xyz/canales/EXTERNA_VER_SIMPSONS.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SERIES", WB tv
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=205&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.72622580071579.png.48667f6cb9c09e18c10161d1651d7c5b.png" group-title="SERIES", Sony Channel
+https://tv.teleclub.xyz/canales/L1/SONY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" group-title="SERIES", Star Channel
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1600px-Star_Life_2021.svg.png" group-title="SERIES", Star Life
+https://tv.teleclub.xyz/canales/L2/STAR_LIFE.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Star_Series_2021.png" group-title="SERIES", Star Series
+https://tv.teleclub.xyz/canales/L2/STAR_SERIES.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="SERIES", TNT Series
+https://tv.teleclub.xyz/canales/L2/TNT_SERIES.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="SERIES", Universal TV
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="SERIES", AXN
+https://tv.teleclub.xyz/canales/L1/AXN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="SERIES", A&E
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=62&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="SERIES", amc
+https://tv.teleclub.xyz/canales/L2/AMC.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/320px-FX_Movies_logo.svg.png" group-title="SERIES", FXM
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=138&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="SERIES", FX
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="SERIES", Space
+https://tv.teleclub.xyz/canales/L2/SPACE.m3u8
+#EXTINF:-1 tvg-logo="https://karga.pt/wp-content/uploads/2017/08/SYFY_Logo_021017_HORIZONTALai-transparente.png" group-title="SERIES", SYFY
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=59&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/6/Science-Fiction-PNG-Free-Download.png" group-title="SERIES", SciFi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=b9c766a3-ba74-11eb-af67-0242ac110002&sid=b9c766a3-ba74-11eb-af67-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="SERIES", Lifetime
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=lifetime&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PELICULAS", Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=5548393f-bbe3-11eb-8afd-0242ac110002&sid=5548393f-bbe3-11eb-8afd-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PELICULAS", Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=dc3cc4d3-bbe3-11eb-be56-0242ac110002&sid=dc3cc4d3-bbe3-11eb-be56-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PELICULAS", Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=2fe936ea-bbe4-11eb-b223-0242ac110002&sid=2fe936ea-bbe4-11eb-b223-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PELICULAS", Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=7419ad9c-bbe4-11eb-a7d6-0242ac110002&sid=7419ad9c-bbe4-11eb-a7d6-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PELICULAS", Cine Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=d4f0b97c-bbe4-11eb-b3db-0242ac110002&sid=d4f0b97c-bbe4-11eb-b3db-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PELICULAS", Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=1a2c5fcd-bbe5-11eb-a4a5-0242ac110002&sid=1a2c5fcd-bbe5-11eb-a4a5-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PELICULAS", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3e641e22-7805-4838-8bb9-920718f88411&clientModelNumber=na&deviceDNT=false&deviceId=3e641e22-7805-4838-8bb9-920718f88411&deviceLat=19.4354&deviceLon=-99.1427&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=620b136a-bbe5-11eb-9d16-0242ac110002&sid=620b136a-bbe5-11eb-9d16-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS", Cinecanal
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=149&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS", Cinemax
+https://tv.teleclub.xyz/canales/L2/CINEMAX.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="PELICULAS", HBO
+https://tv.teleclub.xyz/canales/L1/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PELICULAS", HBO2
+https://tv.teleclub.xyz/canales/L2/HBO2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1280px-Logohboplus2019.svg.png" group-title="PELICULAS", HBO+
+https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PELICULAS", HBO family
+https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="PELICULAS", HBO pop
+https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="PELICULAS", HBO signature
+https://tv.teleclub.xyz/canales/L2/HBO_SIGNATURE.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PELICULAS", HBO xtreme
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=hboxtreme&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PELICULAS", HBO mundi
+https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Golden2020.png" group-title="PELICULAS", Golden
+https://tv.teleclub.xyz/canales/L2/GOLDEN.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="PELICULAS", Golden Plus
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=goldenplus&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Golden_Edge_LA_%282020%29.png" group-title="PELICULAS", Golden Edge
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=edge&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="PELICULAS", Golden Premier
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=goldenp&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Paramount_Network_HD.svg" group-title="PELICULAS", Paramount Network
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=paramount&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="PELICULAS", Studio Universal
+https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="PELICULAS", TNT
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=tnt&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1600px-Star_Hits_2020.svg.png" group-title="PELICULAS", Star Hits
+https://tv.teleclub.xyz/canales/L2/STAR_HITS.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1024px-Star_Action_2020.svg.png" group-title="PELICULAS", Star Action
+https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoClaro.png.1f7c2778a8012927edfd5c9ee5f2d585.png" group-title="PELICULAS", Star Cinema
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=starcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1599px-Star_Comedy_2020.svg.png" group-title="PELICULAS", Star Comedy
+https://tv.teleclub.xyz/canales/L1/FOXCOMEDY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/270px-Star_Fun_2020.svg.png" group-title="PELICULAS", Star Fun
+https://tv.teleclub.xyz/canales/L2/STAR_FUN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/270px-Star_Classics_2020.svg.png" group-title="PELICULAS", Star Classics
+http://ipeteve.com/php/SR_REGIO_281119/regio22.php?c=starclassics&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="INFANTIL", Babyfirst
+http://ipeteve.com/php/SR_REGIO_281119/tp.php?c=1984&p=3&k=srregio&f=.m3u8
